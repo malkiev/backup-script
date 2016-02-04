@@ -1,0 +1,11 @@
+\App_Themes\
+\App_Data\
+\companies\2\files
+\.svn\
+\obj\
+.csproj
+.scc
+.licx
+.sln
+.suo
+.vssscc
